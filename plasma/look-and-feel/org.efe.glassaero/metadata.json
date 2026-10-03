@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.efe.glassaero",
+    "Name": "Glass Aero",
+    "Description": "A glass Aero desktop for KDE Plasma 6",
+    "Version": "1.0.0",
+    "License": "GPL-3.0-or-later",
+    "Authors": [{ "Name": "Efe" }]
+  }
+}

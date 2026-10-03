@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "KWin/Effect",
+  "KPlugin": {
+    "Id": "glass-aero-keep-blur",
+    "Name": "Glass Aero: Keep Blur",
+    "Description": "Keep KDE application blur active while moving windows",
+    "Version": "1.0.0",
+    "License": "GPL-3.0-or-later",
+    "EnabledByDefault": false,
+    "Authors": [{ "Name": "Efe" }]
+  },
+  "X-Plasma-API": "javascript",
+  "X-KDE-Ordering": 1
+}
